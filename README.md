@@ -1,4 +1,6 @@
 # Ensemble_classification_imbalanced_patent
-Code for publication titled "Ensemble Method for Classification in Imbalanced Patent Data"
 
-This repository contains two jypiter notebooks. One for running the code for USPTO-2M and one for CLEFIP-0.51M: https://github.com/ekamater/CLEFIP-0.54M/. 
+You will find here the code for re-producing the results published in the PatentSemTech'23 publication titled "Ensemble Method for Classification in Imbalanced Patent Data". The repository contains two jypiter notebooks. One for applying the proposed method for USPTO-2M and one for CLEFIP-0.51M: https://github.com/ekamater/CLEFIP-0.54M/. 
+
+Please, cite the publication as follows:
+C61. Eleni Kamateri and Michail Salampasis. Ensemble Method for Classification in Imbalanced Patent Data. 4th Workshop on Patent Text Mining and Semantic Technologies (PatentSemTech 2023 in Conjuction with SIGIR 23), July 2023. https://ceur-ws.org/Vol-3604/paper7.pdf 
